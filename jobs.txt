@@ -1,7 +1,3 @@
-7_7.job
-7_8.job
-7_9.job
-8_0.job
 8_1.job
 8_2.job
 8_3.job
